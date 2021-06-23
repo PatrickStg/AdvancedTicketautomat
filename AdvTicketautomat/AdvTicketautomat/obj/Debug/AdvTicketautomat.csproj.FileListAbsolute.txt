@@ -1,0 +1,10 @@
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\bin\Debug\AdvTicketautomat.exe.config
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\bin\Debug\AdvTicketautomat.exe
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\bin\Debug\AdvTicketautomat.pdb
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\obj\Debug\AdvTicketautomat.csprojAssemblyReference.cache
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\obj\Debug\AdvTicketautomat.Form1.resources
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\obj\Debug\AdvTicketautomat.Properties.Resources.resources
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\obj\Debug\AdvTicketautomat.csproj.GenerateResource.cache
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\obj\Debug\AdvTicketautomat.csproj.CoreCompileInputs.cache
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\obj\Debug\AdvTicketautomat.exe
+C:\Users\PatrickMT\source\repos\AdvTicketautomat\AdvTicketautomat\obj\Debug\AdvTicketautomat.pdb
